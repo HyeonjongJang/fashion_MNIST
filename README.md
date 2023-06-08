@@ -1,4 +1,4 @@
-# fashion_MNIST
+# fashion_MNIST.
 
 ![20191580_장현종, 20191520_신민섭 기말과제 대체 레포트-1](https://github.com/HyeonjongJang/fashion_MNIST/assets/101302582/7fbdb9be-c3c5-4c02-bcc6-9d5a948fb2d8)
 ![20191580_장현종, 20191520_신민섭 기말과제 대체 레포트-2](https://github.com/HyeonjongJang/fashion_MNIST/assets/101302582/19e8000a-8537-41e1-a8d2-928244efc103)
